@@ -2,3 +2,9 @@ baseURL = 'http://msattova.netlify.app/'
 languageCode = 'ja'
 title = 'msattova logs'
 theme = "hugo-book"
+
+author = 'msattova'
+
+[taxonomies]
+tag = "tags"
+archive = "archives"
