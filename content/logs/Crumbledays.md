@@ -6,6 +6,8 @@ draft: false
 
 # Crumble Days
 
+{{<copyrights>}}
+
 【情報】 **GM** : 情報を貼るところ
 
 【メイン】 **鬼頭　剛** : テスト
