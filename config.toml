@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://msattova.net/'
 languageCode = 'ja'
 title = 'msattova logs'
 theme = "hugo-book"
