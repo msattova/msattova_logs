@@ -1,4 +1,4 @@
-baseURL = 'http://msattova.net/'
+baseURL = 'http://msattova.netlify.app/'
 languageCode = 'ja'
 title = 'msattova logs'
 theme = "hugo-book"
