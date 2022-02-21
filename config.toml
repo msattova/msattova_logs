@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'ja'
+title = 'msattova logs'
+theme = "hugo-book"
