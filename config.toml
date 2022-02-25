@@ -8,3 +8,8 @@ author = 'msattova'
 [taxonomies]
 tag = "tags"
 archive = "archives"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps=true

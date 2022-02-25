@@ -1,0 +1,5 @@
+{{- $TOC_EMPTY := "<nav id=\"TableOfContents\"></nav>" -}}
+
+{{- if ne .TableOfContents $TOC_EMPTY -}}
+    {{- .TableOfContents -}}
+{{- end -}}
